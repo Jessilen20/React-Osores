@@ -1,0 +1,10 @@
+.lista button{
+    background-color: rgb(70, 70, 70);
+    height: 2.5rem;
+    width: 10rem;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    color: aliceblue;
+    border-radius: 0.5rem;
+    font-size: large;
+}
