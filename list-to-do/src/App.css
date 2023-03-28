@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  margin: auto;
+  padding: auto;
+  width: 30%;
+}
+
+.tareaforma{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.tareaforma p{
+  font-weight: bold;
+}
+
+.realizado{
+  text-decoration: line-through;
+}
